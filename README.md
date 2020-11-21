@@ -2,6 +2,8 @@
 
 ### I am Chad 👨‍💻🎧
 
+https://blog.waterlesspiano2.vercel.app/
+
 - 🔭 I’m currently working on a customs declaration platform for UK traders independently
 - 🌱 I’m currently learning NEXT.js 
 - 👯 I’m looking to collaborate on any of my public repositories
