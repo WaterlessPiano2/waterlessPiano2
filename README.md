@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with HMRC integration, marketing and sales
 - 💬 Ask me about anything Javascript, databases and web hosting
 - 📫 How to reach me: cderya1994@gmail.com
-- 😄 Pronouns: my real name is pronounced as "Chaghdash" but it is written in "Cagdas"
+- 😄 pronunciation: my real name is pronounced as "Chaghdash" but it is written in "Cagdas"
 - ⚡ Fun fact: I found out that I love creating and working on mini projects!
 
 
