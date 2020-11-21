@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello world! 👋
 
-<!--
-**WaterlessPiano2/waterlessPiano2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Chad 👨‍💻🎧
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a customs declaration platform for UK traders independently
+- 🌱 I’m currently learning NEXT.js 
+- 👯 I’m looking to collaborate on any of my public repositories
+- 🤔 I’m looking for help with HMRC integration, marketing and sales
+- 💬 Ask me about anything Javascript, databases and web hosting
+- 📫 How to reach me: cderya1994@gmail.com
+- 😄 Pronouns: my real name is pronounced as "Chaghdash" but it is written in "Cagdas"
+- ⚡ Fun fact: I found out that I love creating and working on mini projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Some of my Github Stats
+![waterlessPiano2 github stats](https://github-readme-stats.vercel.app/api?username=waterlessPiano2&show_icons=true)
+
+## Most use languages
+![waterlessPiano2 languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=waterlessPiano2)
