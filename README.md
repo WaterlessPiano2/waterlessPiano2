@@ -12,13 +12,9 @@
 - ⚡ Fun fact: I found out that I love creating and working on mini projects!
 
 
-
-## Some of my Github Stats
 ![waterlessPiano2 github stats](https://github-readme-stats.vercel.app/api?username=waterlessPiano2&show_icons=true)
 
-## Most used languages
 ![waterlessPiano2 languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=waterlessPiano2)
 
-## Waka time stats
 ![waterlessPiano2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waterlessPiano2)
 
