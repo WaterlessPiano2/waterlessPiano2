@@ -18,5 +18,4 @@ https://blog.waterlesspiano2.vercel.app/
 
 ![waterlessPiano2 languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=waterlessPiano2)
 
-![waterlessPiano2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waterlessPiano2)
-
+<figure><embed src="https://wakatime.com/share/@waterlessPiano2/e09a8ee4-6b62-4460-8984-300659c3321f.svg"></embed></figure>
