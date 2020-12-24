@@ -4,7 +4,7 @@
 
 https://blog.waterlesspiano2.vercel.app/
 
-- 🔭 I’m currently working on creating a SaaS customs declaration platform for UK traders. Find out more at (agileimport.co.uk)[agileimport.co.uk]
+- 🔭 I’m currently working on creating a SaaS customs declaration platform for UK traders. Find out more at https://agileimport.co.uk
 - 🌱 I’m currently learning NEXT.js and TailwindCSS. Next technology I am looking forward to learn is Blitz.js
 - 👯 I’m looking to collaborate on any of my public repositories
 - 🤔 I’m looking for help with HMRC integration, marketing and sales for my SaaS platform. email me to find out more
