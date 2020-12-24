@@ -4,14 +4,14 @@
 
 https://blog.waterlesspiano2.vercel.app/
 
-- 🔭 I’m currently working on a customs declaration platform for UK traders independently
-- 🌱 I’m currently learning NEXT.js 
+- 🔭 I’m currently working on creating a SaaS customs declaration platform for UK traders. Findout more at agileimport.co.uk
+- 🌱 I’m currently learning NEXT.js and TailwindCSS. Next technology I am looking forward to learn is Blitz.js
 - 👯 I’m looking to collaborate on any of my public repositories
-- 🤔 I’m looking for help with HMRC integration, marketing and sales
+- 🤔 I’m looking for help with HMRC integration, marketing and sales for my SaaS platform. email me to find out more
 - 💬 Ask me about anything Javascript, databases and web hosting
 - 📫 How to reach me: cderya1994@gmail.com
-- 😄 pronunciation: my real name is pronounced as "Chaghdash" but it is written in "Cagdas"
-- ⚡ Fun fact: I found out that I love creating and working on mini projects!
+- 😄 Pronunciation: my real name is pronounced as "Chaghdash" but it is written in "Cagdas"
+- ⚡ Fun fact: I love creating and working on mini projects, if you have a mini hackathon idea let me know :)
 
 
 ![waterlessPiano2 github stats](https://github-readme-stats.vercel.app/api?username=waterlessPiano2&show_icons=true)
