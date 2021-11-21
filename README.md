@@ -4,11 +4,10 @@
 
 https://blog.waterlesspiano2.vercel.app/
 
-- 🔭 I’m currently working on creating a SaaS customs declaration platform for UK traders. Find out more at https://agileimport.co.uk
-- 🌱 I’m currently learning NEXT.js and TailwindCSS. Next technology I am looking forward to learn is Blitz.js
-- 👯 I’m looking to collaborate on any of my public repositories
-- 🤔 I’m looking for help with HMRC integration, marketing and sales for my SaaS platform. email me to find out more
-- 💬 Ask me about anything Javascript, databases and web hosting
+- 🔭 I have been working on creating a SaaS customs declaration platform for UK traders. Find out more at https://agileimport.co.uk
+- 🌱 I’m currently learning Metaplex to create a Solana candy machine for minting NFT's
+- 👯 I’m looking to collaborate on anything related to Solana blockchain
+- 💬 Ask me about anything Javascript, databases, Solana and web hosting
 - 📫 How to reach me: cderya1994@gmail.com
 - 😄 Pronunciation: my real name is pronounced as "Chaghdash" but it is written in "Cagdas"
 - ⚡ Fun fact: I love creating and working on mini projects, if you have a mini hackathon idea let me know :)
